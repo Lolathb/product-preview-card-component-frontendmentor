@@ -1,0 +1,33 @@
+.attribution { 
+    font-size: 11px; text-align: center; }
+.attribution a { 
+    color: hsl(228, 45%, 44%); }
+.linethrough{
+    text-decoration: line-through;
+}
+body{
+    background-color: hsl(0, 0%, 100%);
+}
+p{
+    font-size: 14px;
+}
+h1{
+    font-family: 'Fraunces', sans-serif;
+}
+#fond{
+    width:1280px;
+    background-color:hsl(30, 38%, 92%);
+    display:flex;
+    margin:auto;
+    justify-content: center;
+}
+main{
+    width:1000px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(0, 0%, 100%);
+}
+img{
+    width:270px;
+}
