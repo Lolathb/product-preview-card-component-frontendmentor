@@ -1,12 +1,11 @@
 body{
-    background-color: hsl(0, 0%, 100%);
+    background-color: hsl(30, 38%, 92%);
 }
 #background{
     display: flex;
     justify-content: center;
 }
 #fond{
-    width: 1080px;
     background-color:hsl(30, 38%, 92%);
     display:flex;
     margin:100px;
@@ -45,7 +44,7 @@ h4{
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: x-small;
-    color:hsl(228, 12%, 48%);
+    color: hsl(228, 12%, 48%);
 }
 
 h1{
