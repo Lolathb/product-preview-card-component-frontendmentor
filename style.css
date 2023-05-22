@@ -10,6 +10,7 @@ body{
     display:flex;
     margin:100px;
     justify-content: center;
+    box-shadow: 8px 10px 20px 5px hsl(228, 12%, 48%, 0.2);
 }
 
 main{
@@ -43,7 +44,7 @@ h4{
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: x-small;
-    color:hsl(228, 12%, 48%);
+    color: hsl(228, 12%, 48%);
 }
 
 h1{
